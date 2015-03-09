@@ -1,0 +1,1 @@
+S:\DEMOS\SPARTA-20131029\bin\sparta.exe --jconf s:/jconf30/mixins/METaL.treetarget.aswand.jconf --jconf s:/jconf30/mixins/METaL.wiimotewandbuttons.jconf  --jconf s:/jconf30/METaL.tracked.stereo.reordered.jconf  "%~dp0/\pump.lua"

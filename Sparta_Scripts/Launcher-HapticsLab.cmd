@@ -1,0 +1,1 @@
+C:\demos\Sparta_build_Oct_25_2012\bin\sparta.exe --jconf C:\demos\Sparta_build_Oct_25_2012\haptics-lab-jconf\fishbowl\hapticslab.fishbowl.tracked.mono.jconf --code "devices = 'dualomni'" "%~dp0/\pump.lua"
